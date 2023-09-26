@@ -13,6 +13,6 @@
   </li>
   <li>Configure Admin API scopes and give right to read_products and write_products</li>
   <li>Go to API credentials tab and install the app</li>
-  <li>Copy: <strong>Admin API access token, API key and secret key</strong></li>
+  <li>Copy: <strong>Admin API access token, API key and secret key</strong> and plug in the script</li>
   <li>Update the tags according to your needs</li>
 </ol>
