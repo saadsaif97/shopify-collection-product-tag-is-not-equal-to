@@ -2,6 +2,10 @@
 
 ![Shopify collection product tag is not equal to](./images/shopify-collection-product-tag-is-not-equal-to.webp)
 
+Shopify doesn't allow creating product collections that exclude a specific tag, say "Winter". The workaround involves tagging the rest of your products manually with another tag, say "Summer". This becomes a tedious task when dealing with large product catalogs.
+
+I've developed an automated script that helps you tag all your products conveniently. The script leverages Shopify's Admin REST API to apply logic and automatically tag thousands of products. You can also modify this script as per your specific requirements.
+
 ## Purpose:
 
 This script aids in creating and tagging the products based on specific conditions. The operations are performed using [Shopify's Admin REST API](https://shopify.dev/docs/api/admin-rest/2023-07/resources/product).
