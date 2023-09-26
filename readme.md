@@ -1,4 +1,4 @@
-# Optimizing Shopify Collection Product Tag
+# Shopify collection product tag is not equal to
 
 ![Shopify collection product tag is not equal to](./images/shopify-collection-product-tag-is-not-equal-to.webp)
 
