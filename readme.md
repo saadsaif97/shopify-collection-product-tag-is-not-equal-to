@@ -10,7 +10,7 @@ we are using [Shopify admin rest api](https://shopify.dev/docs/api/admin-rest/20
 
 ## Follow these steps to implement the solution:
 <ol>
-  <li>Clone this repository</li>
+  <li>Clone this repository: <strong>git clone https://github.com/saadsaif97/shopify-collection-product-tag-is-not-equal-to.git</strong></li>
   <li>Install the dependencies using: <strong>yarn install</strong></li>
   <li>Create new app from you shopify store: 
     <strong>settings -> Apps and sales channels -> Develop apps -> Create an app</strong>
