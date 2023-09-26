@@ -33,7 +33,7 @@ async function writeAllProductsToFile() {
 
   let params = {
     session: session,
-    limit: 50,
+    limit: 50, // ≤ 250 default 50
     fields: "id,tags,title",
   };
 
